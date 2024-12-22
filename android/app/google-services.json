@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876311993857",
+    "project_id": "d5ntodo",
+    "storage_bucket": "d5ntodo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876311993857:android:ed7384e1c343866cfa6a00",
+        "android_client_info": {
+          "package_name": "com.example.d5ntest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABykStKrWbRuuYKe2MpDUrbk15kZMFWPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
